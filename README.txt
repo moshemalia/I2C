@@ -1,0 +1,14 @@
+I2C
+===
+I2Csend: 0xC2 0x02 0x3C
+x:	0
+CMD_ACK 2 3C 36 38 39 35 30  
+I2Csend: 0xCF 
+x:	0
+CMD_ACK 2 3C 36 38 39 35 30  
+I2Csend: 0x71 0x01 0x8E
+x:	0
+3A 1 FFFFFF8E 36 38 39 35 30  
+I2Csend: 0x71 0x00 0x8F
+x:	0
+2 0 FFFFFF8F 36 38 39 35 30  
